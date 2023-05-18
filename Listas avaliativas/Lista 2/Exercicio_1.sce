@@ -14,4 +14,4 @@ plot(D, Tu); //plota o gráfico
 title("Tensão última x Diâmetro");//Titulo do gráfico
 xlabel("Diâmetro do pino A (mm)");//Nome do eixo X
 ylabel("Tensão última de cisalhamento (MPa");//Nome do eixo X
-grid();//habilita o grid
+grid();//habilita o gri
