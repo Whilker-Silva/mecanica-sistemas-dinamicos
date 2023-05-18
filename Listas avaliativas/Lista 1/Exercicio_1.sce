@@ -16,4 +16,4 @@ title("Diâmetros x Tensão última"); //nome do gráfico
 xlabel("Tensão última (MPa)");//nome eixo x
 ylabel("Diâmetro (mm)");//nome eixo y
 legend("Diâmetro 1", "Diametro 2");
-xgrid(1);//habilita grade
+xgrid();//habilita grade
