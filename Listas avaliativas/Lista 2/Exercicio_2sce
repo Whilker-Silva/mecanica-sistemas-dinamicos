@@ -1,8 +1,0 @@
-clear;
-clc;
-
-Fd = 2200*15/35;
-Fc = 2200*50/35; 
-
-disp(Fd);
-disp(Fc);
